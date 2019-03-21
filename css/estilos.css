@@ -1,0 +1,59 @@
+.banner {
+    padding-top: 100px;
+    background-color: #35BF58;
+    padding-bottom: 130px;
+}
+
+#servicios-destacados {
+    margin: 30px 0;
+
+}
+
+.titulo-seccion {
+    text-align: center;
+    text-transform: uppercase;
+    margin: 15px;
+}
+
+.titulo-seccion hr {
+    border-top: 5px solid #35BF58;
+    max-width: 100px;
+}
+
+#banner-medio {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #35BF58;
+    text-align: center;
+    background: url(../images/img-server.jpg);
+    background-attachment: fixed; /* fijar la imagen */    
+}
+
+#banner-medio h2 {
+    color: white;
+}
+
+/* .bg-light {
+    background-color: #2b8843!important;
+} */
+
+#menu-principal nav{
+    background-color: #2b8843!important;
+}
+
+#equipo{
+margin: 30px;
+}    
+
+footer{
+    background-color: black;
+    padding: 40px;
+    } 
+
+footer p{
+    color:white;
+    padding: 18px;
+}     
+.pd-20 {
+    padding: 20px;
+}
